@@ -11,6 +11,7 @@
     <groupId>com.example</groupId>
     <artifactId>owner_microservice</artifactId>
     <version>0.0.1-SNAPSHOT</version>
+    <packaging>jar</packaging>
     <name>owner_microservice</name>
     <description>owner_microservice</description>
     <properties>
